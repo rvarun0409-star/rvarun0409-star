@@ -6,7 +6,7 @@ I build scalable batch and real-time data pipelines for financial services. I cu
 
 I care about data that people can trust: well-modeled warehouses, automated quality checks, and pipelines that recover on their own when something breaks.
 
-- 🔭 Currently building pipelines on **AWS, Snowflake, Airflow, and Kafka** at DriveWealth
+- 🔭 Currently building pipelines on **AWS, Snowflake, Airflow, and Kafka**
 - 🎓 Master's in Computer Science, Montclair State University
 - 💼 Open to Data Engineer roles across the US (on-site, hybrid, or remote)
 - 📫 Reach me at **rvarun0409@gmail.com**
